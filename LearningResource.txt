@@ -1,0 +1,14 @@
+﻿https://ermir.net/topic-14/repository-and-generic-repository-patterns-with-unit-of-work
+https://www.codeproject.com/Articles/825646/Generic-Repository-and-UnitofWork-patterns-in-MVC
+https://www.c-sharpcorner.com/UploadFile/3d39b4/crud-operations-using-the-generic-repository-pattern-and-uni/
+https://codewithmukesh.com/blog/serilog-in-aspnet-core-3-1/
+https://shawn-shi.medium.com/asp-net-core-api-starter-project-serilog-for-logging-f91f29d9be62
+https://www.c-sharpcorner.com/article/net-entity-framework-core-generic-async-operations-with-unit-of-work-generic-re/
+https://dotnettutorials.net/lesson/differences-between-ienumerable-and-iqueryable/
+https://blog.zhaytam.com/2019/03/14/generic-repository-pattern-csharp/
+https://code-maze.com/async-generic-repository-pattern/
+https://github.com/bhamer/async-repository
+Mediator Pattern
+https://medium.com/swlh/mediator-pattern-in-asp-net-core-applications-109b4231c0f8
+https://code-maze.com/cqrs-mediatr-in-aspnet-core/
+https://www.freecodespot.com/blog/asp-net-core-identity/
