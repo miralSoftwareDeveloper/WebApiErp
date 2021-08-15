@@ -21,6 +21,7 @@ namespace WebApiGresol.Controllers
         {
             this.thirdPartyService = thirdPartySer;
             this.logger = log;
+            // file is edit at git hub server
 
         }
 
