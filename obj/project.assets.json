@@ -8328,11 +8328,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guru\\source\\repos\\WebApiGresol\\WebApiGresol.csproj",
+      "projectUniqueName": "C:\\Users\\Guru\\Desktop\\Git\\WebApiErp\\WebApiGresol.csproj",
       "projectName": "WebApiGresol",
-      "projectPath": "C:\\Users\\Guru\\source\\repos\\WebApiGresol\\WebApiGresol.csproj",
+      "projectPath": "C:\\Users\\Guru\\Desktop\\Git\\WebApiErp\\WebApiGresol.csproj",
       "packagesPath": "C:\\Users\\Guru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guru\\source\\repos\\WebApiGresol\\obj\\",
+      "outputPath": "C:\\Users\\Guru\\Desktop\\Git\\WebApiErp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Guru\\AppData\\Roaming\\NuGet\\NuGet.Config",

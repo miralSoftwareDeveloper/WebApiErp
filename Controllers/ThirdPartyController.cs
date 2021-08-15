@@ -29,12 +29,12 @@ namespace WebApiGresol.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<DtoThirdParty>> Get()
         {
+
             List<DtoThirdParty> dtoThirdParties = null;
             try
             {
                 
-                //throw new Exception("My error");
-               dtoThirdParties = new List<DtoThirdParty>(thirdPartyService.GetDtoThirdParties());
+                dtoThirdParties = new List<DtoThirdParty>(thirdPartyService.GetDtoThirdParties());
                
             }
             catch (Exception ex)

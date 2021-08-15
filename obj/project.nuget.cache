@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6FsAzWyPKtWks8F47bO1m9XhrvhYC6IfPq23ftxWnFVeHC74hGUnb3QNgFOf1BTcCLk9Dnhzl+1ls9Ysg5XBQ==",
+  "dgSpecHash": "2xzG/UuFn8mrbOvqTVrTa1U1bZdci7qhM5+6H8Y5MzyILuTf7tSPgsEzMpPqofOaxREpF1ETZenfYvf1d/Ln+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guru\\source\\repos\\WebApiGresol\\WebApiGresol.csproj",
+  "projectFilePath": "C:\\Users\\Guru\\Desktop\\Git\\WebApiErp\\WebApiGresol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guru\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Guru\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
